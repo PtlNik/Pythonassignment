@@ -1,4 +1,4 @@
-gender = input("Enter your biological gender (male/female): ").lower()
+gender = input("Enter your  gender (male/female): ").lower()
 
 hb = float(input("Enter your hemoglobin level (g/L): "))
 
